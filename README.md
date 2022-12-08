@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamyassineatik" target="blank"><img src="https://img.shields.io/twitter/follow/iamyassineatik?logo=twitter&style=for-the-badge" alt="iamyassineatik" /></a> </p>
 
-- 🔭 I’m currently working on **e-Commerce Plateform**
+- 🔭 I’m currently working on **e-Commerce Platform**
 
 - 🌱 I’m currently learning **Vue Js & symfony**
 
