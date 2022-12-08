@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue Js & symfony**
 
-- 💬 Ask me about **ReactJs , Php , jQuery**
+- 💬 Ask me about **Php , Laravel , ReactJs , jQuery**
 
 - 📫 How to reach me **atikyassine4@gmail.com**
 
