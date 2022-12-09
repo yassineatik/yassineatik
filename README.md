@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://codepen.io/yassineatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yassineatik" height="30" width="40" /></a>
 <a href="https://twitter.com/iamyassineatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamyassineatik" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yassine-atik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-atik-156203256" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yassine-atik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-atik-156203256" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15204648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15204648" height="30" width="40" /></a>
 <a href="https://instagram.com/yassine_atikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassine_atikk" height="30" width="40" /></a>
 </p>
