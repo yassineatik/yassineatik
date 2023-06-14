@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI Application**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Node**
 
 - 💬 Ask me about **ReactJs , NextJS , Php , Laravel**
 
