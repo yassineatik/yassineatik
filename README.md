@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamyassineatik" target="blank"><img src="https://img.shields.io/twitter/follow/iamyassineatik?logo=twitter&style=for-the-badge" alt="iamyassineatik" /></a> </p>
 
-- 🔭 I’m currently working on **Side project (secret 😶)**
+- 🔭 I’m currently working on **My portfolio**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **ReactJs , Php , jQuery**
+- 💬 Ask me about **ReactJs , NextJs , Laravel , PHP**
 
 - 📫 How to reach me **atikyassine4@gmail.com**
 
