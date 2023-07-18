@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ReactJs , NextJs , Laravel , PHP**
 
-- 📫 How to reach me **atikyassine4@gmail.com**
+- 📫 How to reach me **contact@atikdev.me**
 
 - ⚡ Fun fact **I love when people ask for help**
 
